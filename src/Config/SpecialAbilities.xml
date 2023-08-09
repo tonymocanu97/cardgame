@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<SpecialAbilities>
+  <SpecialAbility>
+    <Id>1</Id>
+    <Name>Undefeated Hero</Name>
+    <Description>Able to defeat any card.</Description>
+  </SpecialAbility>
+  <SpecialAbility>
+    <Id>2</Id>
+    <Name>Trojan horse</Name>
+    <Description>Activates when defeated by a royal or knight card. Add half of the opponent's collected cards to your own collection.</Description>
+  </SpecialAbility>
+</SpecialAbilities>

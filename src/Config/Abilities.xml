@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<Abilities>
+  <Ability>
+    <Id>1</Id>
+    <Name>Simple extraction</Name>
+    <Description>Choose one random card from the opponent's hand and exclude it from the game.</Description>
+  </Ability>
+  <Ability>
+    <Id>2</Id>
+    <Name>Reset all</Name>
+    <Description>Return all of the opponent's collected cards to the board.</Description>
+  </Ability>
+  <Ability>
+    <Id>3</Id>
+    <Name>Explosive Growth</Name>
+    <Description>Increase your collected cards by X cards (X is the turn number).</Description>
+  </Ability>
+  <Ability>
+    <Id>4</Id>
+    <Name>Great Revolution</Name>
+    <Description>From this point on, all card values will be reversed.</Description>
+  </Ability>
+</Abilities>
