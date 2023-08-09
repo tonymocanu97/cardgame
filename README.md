@@ -3,8 +3,7 @@
 ## Description
 This is a card game project inspired by Liar Liar anime.
 
-## Details
-This game is run automatically with different output (winner) every time. 
+It runs automatically with different output (winner) every time. 
 
 It consists of two players and 20 cards split evenly.
 
