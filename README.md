@@ -1,11 +1,9 @@
 # Scalene love triangle
 
 ## Description
-This is a card game project inspired by Liar Liar anime.
+This is a card game project inspired by Liar Liar anime, consisting of two players and 20 cards split evenly.
 
-It runs automatically with different output (winner) every time. 
-
-It consists of two players and 20 cards split evenly.
+It runs automatically with different output (winner) every time.
 
 ## Rules
 The cards have relative values, and whoever plays the higher card gets both cards.
